@@ -6,7 +6,7 @@ This project was created to practice generating map tiles using QGIS open source
 
 >_This project was created for GEOG 458 (lab 4) with Bo Zhao at the University of Washington_
 
-![iceland map](iceland.jpg)
+![iceland map](iceland.JPG)
 
 ### View the [live map](https://kcroland.github.io/icy_iceland_tiles/) here :computer:
 
