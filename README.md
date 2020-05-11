@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project was created to practice generating map tiles. Steps for this project can be found below.
+This project was created to practice generating map tiles using QGIS open source software that can be used in leaflet web maps. Steps for this project can be found below.
 
 >_This project was created for GEOG 458 (lab 4) with Bo Zhao at the University of Washington_
 
